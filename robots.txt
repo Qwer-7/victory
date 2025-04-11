@@ -1,0 +1,1 @@
+﻿User-agent:*Disallow:Sitemap:https://www.bygoukai.com/sitemap.xml
